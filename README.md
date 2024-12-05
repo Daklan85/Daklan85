@@ -4,6 +4,7 @@
 
 - <b>Active-Directory-Lab</b>
   - [Lab Setup + Admin User Creation](https://github.com/Daklan85/Active-Directory-Lab)
+  - [PowerShell User Account Automation](https://github.com/Daklan85/PowerShell-Automation)
 
 <h2>CYBERSECURITY:</h2>
 
@@ -17,6 +18,6 @@
 [<img align="left" alt="DennisGrettner | Credly" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/credly.svg" />][credly]
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/dennisgrettner
 [tryhackme]: https://tryhackme.com/r/p/Daklan1
 [credly]: https://www.credly.com/users/dennis-grettner
