@@ -10,6 +10,7 @@
 
 - <b>Tech Solutions Inc.</b>
   - [Part 1. Inital Design, Configuration and Implementation](https://github.com/Daklan85/Tech-Solutions-Company)
+  - [Part 2. Wireless Network Configuration with Wireless LAN Controller and Light Weight Access Points](https://github.com/Daklan85/Tech-Solutions-Company-Part2)
 
 <h2>CYBERSECURITY:</h2>
 
